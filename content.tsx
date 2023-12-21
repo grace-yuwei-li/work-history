@@ -1,1 +1,1 @@
-console.log("synfq")
+console.log("gynrq")
